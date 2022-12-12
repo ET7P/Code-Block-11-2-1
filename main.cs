@@ -3,10 +3,10 @@ using System;
 class MainClass {
   public static void Main (string[] args) {
 
-	 string myName456;
-	 myName456 = "Jane";
+	 string myNameNewName;
+	 myNameNewName = "Jane";
 
-	 Console.WriteLine(myName456);
+	 Console.WriteLine(myNameNewName);
 	 
 	 Console.ReadKey();
   }
